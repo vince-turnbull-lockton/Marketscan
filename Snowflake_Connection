@@ -1,0 +1,15 @@
+DROP CONNECTION IF EXISTS snowflake_conn;
+CREATE CONNECTION snowflake_conn
+TYPE snowflake
+OPTIONS (
+    host 'qeenjww-lockton.snowflakecomputing.com',
+    user 'CLIENT_MANAGER',
+    password 'AHL4MerativeData@2024',
+    sfWarehouse 'TEST_WAREHOUSE'
+);
+
+CREATE FOREIGN CATALOG snowflake_catalog
+USING CONNECTION snowflake_conn
+OPTIONS (database 'MARKETSCAN');
+
+SELECT * FROM snowflake_catalog.COMMERCIAL_SET_B_25K_CCAE.CCAE_A LIMIT 100;
