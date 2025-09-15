@@ -1,0 +1,830 @@
+﻿DRG,Level_II,Level_III
+001,Transplants,Transplants
+002,Transplants,Transplants
+003,Transplants,Transplants
+004,Transplants,Transplants
+005,Transplants,Transplants
+006,Transplants,Transplants
+007,Transplants,Transplants
+008,Transplants,Transplants
+009,Transplants,Transplants
+010,Transplants,Transplants
+011,Transplants,Transplants
+012,Transplants,Transplants
+013,Transplants,Transplants
+014,Transplants,Transplants
+015,Transplants,Transplants
+016,Transplants,Transplants
+017,Transplants,Transplants
+018,CAR-T and Other Immunotherapies,CAR-T and Other Immunotherapies
+019,Transplants,Transplants
+020,Nervous System,Surgical
+021,Nervous System,Surgical
+022,Nervous System,Surgical
+023,Nervous System,Surgical
+024,Nervous System,Surgical
+025,Nervous System,Surgical
+026,Nervous System,Surgical
+027,Nervous System,Surgical
+028,Nervous System,Surgical
+029,Nervous System,Surgical
+030,Nervous System,Surgical
+031,Nervous System,Surgical
+032,Nervous System,Surgical
+033,Nervous System,Surgical
+034,Nervous System,Surgical
+035,Nervous System,Surgical
+036,Nervous System,Surgical
+037,Nervous System,Surgical
+038,Nervous System,Surgical
+039,Nervous System,Surgical
+040,Nervous System,Surgical
+041,Nervous System,Surgical
+042,Nervous System,Surgical
+052,Nervous System,Medical
+053,Nervous System,Medical
+054,Nervous System,Medical
+055,Nervous System,Medical
+056,Nervous System,Medical
+057,Nervous System,Medical
+058,Nervous System,Medical
+059,Nervous System,Medical
+060,Nervous System,Medical
+061,Nervous System,Medical
+062,Nervous System,Medical
+063,Nervous System,Medical
+064,Nervous System,Medical
+065,Nervous System,Medical
+066,Nervous System,Medical
+067,Nervous System,Medical
+068,Nervous System,Medical
+069,Nervous System,Medical
+070,Nervous System,Medical
+071,Nervous System,Medical
+072,Nervous System,Medical
+073,Nervous System,Medical
+074,Nervous System,Medical
+075,Nervous System,Medical
+076,Nervous System,Medical
+077,Nervous System,Medical
+078,Nervous System,Medical
+079,Nervous System,Medical
+080,Nervous System,Medical
+081,Nervous System,Medical
+082,Nervous System,Medical
+083,Nervous System,Medical
+084,Nervous System,Medical
+085,Nervous System,Medical
+086,Nervous System,Medical
+087,Nervous System,Medical
+088,Nervous System,Medical
+089,Nervous System,Medical
+090,Nervous System,Medical
+091,Nervous System,Medical
+092,Nervous System,Medical
+093,Nervous System,Medical
+094,Nervous System,Medical
+095,Nervous System,Medical
+096,Nervous System,Medical
+097,Nervous System,Medical
+098,Nervous System,Medical
+099,Nervous System,Medical
+100,Nervous System,Medical
+101,Nervous System,Medical
+102,Nervous System,Medical
+103,Nervous System,Medical
+113,Eye,Surgical
+114,Eye,Surgical
+115,Eye,Surgical
+116,Eye,Surgical
+117,Eye,Surgical
+121,Eye,Medical
+122,Eye,Medical
+123,Eye,Medical
+124,Eye,Medical
+125,Eye,Medical
+129,ENT,Surgical
+130,ENT,Surgical
+131,ENT,Surgical
+132,ENT,Surgical
+133,ENT,Surgical
+134,ENT,Surgical
+135,ENT,Surgical
+136,ENT,Surgical
+137,ENT,Surgical
+138,ENT,Surgical
+139,ENT,Surgical
+140,ENT,Surgical
+141,ENT,Surgical
+142,ENT,Surgical
+143,ENT,Surgical
+144,ENT,Surgical
+145,ENT,Surgical
+146,ENT,Medical
+147,ENT,Medical
+148,ENT,Medical
+149,ENT,Medical
+150,ENT,Medical
+151,ENT,Medical
+152,ENT,Medical
+153,ENT,Medical
+154,ENT,Medical
+155,ENT,Medical
+156,ENT,Medical
+157,ENT,Medical
+158,ENT,Medical
+159,ENT,Medical
+163,Respiratory,Surgical
+164,Respiratory,Surgical
+165,Respiratory,Surgical
+166,Respiratory,Surgical
+167,Respiratory,Surgical
+168,Respiratory,Surgical
+173,Respiratory,Medical
+175,Respiratory,Medical
+176,Respiratory,Medical
+177,Respiratory,Medical
+178,Respiratory,Medical
+179,Respiratory,Medical
+180,Respiratory,Medical
+181,Respiratory,Medical
+182,Respiratory,Medical
+183,Respiratory,Medical
+184,Respiratory,Medical
+185,Respiratory,Medical
+186,Respiratory,Medical
+187,Respiratory,Medical
+188,Respiratory,Medical
+189,Respiratory,Medical
+190,Respiratory,Medical
+191,Respiratory,Medical
+192,Respiratory,Medical
+193,Respiratory,Medical
+194,Respiratory,Medical
+195,Respiratory,Medical
+196,Respiratory,Medical
+197,Respiratory,Medical
+198,Respiratory,Medical
+199,Respiratory,Medical
+200,Respiratory,Medical
+201,Respiratory,Medical
+202,Respiratory,Medical
+203,Respiratory,Medical
+204,Respiratory,Medical
+205,Respiratory,Medical
+206,Respiratory,Medical
+207,Respiratory,Medical
+208,Respiratory,Medical
+209,Circulatory,Surgical
+212,Circulatory,Surgical
+213,Circulatory,Surgical
+215,Circulatory,Surgical
+216,Circulatory,Surgical
+217,Circulatory,Surgical
+218,Circulatory,Surgical
+219,Circulatory,Surgical
+220,Circulatory,Surgical
+221,Circulatory,Surgical
+222,Circulatory,Surgical
+223,Circulatory,Surgical
+224,Circulatory,Surgical
+225,Circulatory,Surgical
+226,Circulatory,Surgical
+227,Circulatory,Surgical
+228,Circulatory,Surgical
+229,Circulatory,Surgical
+230,Circulatory,Surgical
+231,Circulatory,Surgical
+232,Circulatory,Surgical
+233,Circulatory,Surgical
+234,Circulatory,Surgical
+235,Circulatory,Surgical
+236,Circulatory,Surgical
+237,Circulatory,Surgical
+238,Circulatory,Surgical
+239,Circulatory,Surgical
+240,Circulatory,Surgical
+241,Circulatory,Surgical
+242,Circulatory,Surgical
+243,Circulatory,Surgical
+244,Circulatory,Surgical
+245,Circulatory,Surgical
+246,Circulatory,Surgical
+247,Circulatory,Surgical
+248,Circulatory,Surgical
+249,Circulatory,Surgical
+250,Circulatory,Surgical
+251,Circulatory,Surgical
+252,Circulatory,Surgical
+253,Circulatory,Surgical
+254,Circulatory,Surgical
+255,Circulatory,Surgical
+256,Circulatory,Surgical
+257,Circulatory,Surgical
+258,Circulatory,Surgical
+259,Circulatory,Surgical
+260,Circulatory,Surgical
+261,Circulatory,Surgical
+262,Circulatory,Surgical
+263,Circulatory,Surgical
+264,Circulatory,Surgical
+265,Circulatory,Surgical
+266,Circulatory,Surgical
+267,Circulatory,Surgical
+268,Circulatory,Surgical
+269,Circulatory,Surgical
+270,Circulatory,Surgical
+271,Circulatory,Surgical
+272,Circulatory,Surgical
+273,Circulatory,Surgical
+274,Circulatory,Surgical
+280,Circulatory,Medical
+281,Circulatory,Medical
+282,Circulatory,Medical
+283,Circulatory,Medical
+284,Circulatory,Medical
+285,Circulatory,Medical
+286,Circulatory,Medical
+287,Circulatory,Medical
+288,Circulatory,Medical
+289,Circulatory,Medical
+290,Circulatory,Medical
+291,Circulatory,Medical
+292,Circulatory,Medical
+293,Circulatory,Medical
+294,Circulatory,Medical
+295,Circulatory,Medical
+296,Circulatory,Medical
+297,Circulatory,Medical
+298,Circulatory,Medical
+299,Circulatory,Medical
+300,Circulatory,Medical
+301,Circulatory,Medical
+302,Circulatory,Medical
+303,Circulatory,Medical
+304,Circulatory,Medical
+305,Circulatory,Medical
+306,Circulatory,Medical
+307,Circulatory,Medical
+308,Circulatory,Medical
+309,Circulatory,Medical
+310,Circulatory,Medical
+311,Circulatory,Medical
+312,Circulatory,Medical
+313,Circulatory,Medical
+314,Circulatory,Medical
+315,Circulatory,Medical
+316,Circulatory,Medical
+317,Circulatory,Surgical
+318,Circulatory,Surgical
+319,Circulatory,Surgical
+320,Circulatory,Surgical
+321,Circulatory,Surgical
+322,Circulatory,Surgical
+323,Circulatory,Surgical
+324,Circulatory,Surgical
+325,Circulatory,Surgical
+326,Digestive,Surgical
+327,Digestive,Surgical
+328,Digestive,Surgical
+329,Digestive,Surgical
+330,Digestive,Surgical
+331,Digestive,Surgical
+332,Digestive,Surgical
+333,Digestive,Surgical
+334,Digestive,Surgical
+335,Digestive,Surgical
+336,Digestive,Surgical
+337,Digestive,Surgical
+338,Digestive,Surgical
+339,Digestive,Surgical
+340,Digestive,Surgical
+341,Digestive,Surgical
+342,Digestive,Surgical
+343,Digestive,Surgical
+344,Digestive,Surgical
+345,Digestive,Surgical
+346,Digestive,Surgical
+347,Digestive,Surgical
+348,Digestive,Surgical
+349,Digestive,Surgical
+350,Digestive,Surgical
+351,Digestive,Surgical
+352,Digestive,Surgical
+353,Digestive,Surgical
+354,Digestive,Surgical
+355,Digestive,Surgical
+356,Digestive,Surgical
+357,Digestive,Surgical
+358,Digestive,Surgical
+359,Circulatory,Surgical
+360,Circulatory,Surgical
+368,Digestive,Medical
+369,Digestive,Medical
+370,Digestive,Medical
+371,Digestive,Medical
+372,Digestive,Medical
+373,Digestive,Medical
+374,Digestive,Medical
+375,Digestive,Medical
+376,Digestive,Medical
+377,Digestive,Medical
+378,Digestive,Medical
+379,Digestive,Medical
+380,Digestive,Medical
+381,Digestive,Medical
+382,Digestive,Medical
+383,Digestive,Medical
+384,Digestive,Medical
+385,Digestive,Medical
+386,Digestive,Medical
+387,Digestive,Medical
+388,Digestive,Medical
+389,Digestive,Medical
+390,Digestive,Medical
+391,Digestive,Medical
+392,Digestive,Medical
+393,Digestive,Medical
+394,Digestive,Medical
+395,Digestive,Medical
+397,Digestive,Surgical
+398,Digestive,Surgical
+399,Digestive,Surgical
+402,Musculoskeletal,Surgical
+403,Musculoskeletal,Surgical
+404,Musculoskeletal,Surgical
+405,Liver/Pancreas,Surgical
+406,Liver/Pancreas,Surgical
+407,Liver/Pancreas,Surgical
+408,Liver/Pancreas,Surgical
+409,Liver/Pancreas,Surgical
+410,Liver/Pancreas,Surgical
+411,Liver/Pancreas,Surgical
+412,Liver/Pancreas,Surgical
+413,Liver/Pancreas,Surgical
+414,Liver/Pancreas,Surgical
+415,Liver/Pancreas,Surgical
+416,Liver/Pancreas,Surgical
+417,Liver/Pancreas,Surgical
+418,Liver/Pancreas,Surgical
+419,Liver/Pancreas,Surgical
+420,Liver/Pancreas,Surgical
+421,Liver/Pancreas,Surgical
+422,Liver/Pancreas,Surgical
+423,Liver/Pancreas,Surgical
+424,Liver/Pancreas,Surgical
+425,Liver/Pancreas,Surgical
+426,Musculoskeletal,Surgical
+427,Musculoskeletal,Surgical
+428,Musculoskeletal,Surgical
+429,Musculoskeletal,Surgical
+430,Musculoskeletal,Surgical
+432,Liver/Pancreas,Medical
+433,Liver/Pancreas,Medical
+434,Liver/Pancreas,Medical
+435,Liver/Pancreas,Medical
+436,Liver/Pancreas,Medical
+437,Liver/Pancreas,Medical
+438,Liver/Pancreas,Medical
+439,Liver/Pancreas,Medical
+440,Liver/Pancreas,Medical
+441,Liver/Pancreas,Medical
+442,Liver/Pancreas,Medical
+443,Liver/Pancreas,Medical
+444,Liver/Pancreas,Medical
+445,Liver/Pancreas,Medical
+446,Liver/Pancreas,Medical
+447,Musculoskeletal,Surgical
+448,Musculoskeletal,Surgical
+450,Musculoskeletal,Surgical
+451,Musculoskeletal,Surgical
+453,Musculoskeletal,Surgical
+454,Musculoskeletal,Surgical
+455,Musculoskeletal,Surgical
+456,Musculoskeletal,Surgical
+457,Musculoskeletal,Surgical
+458,Musculoskeletal,Surgical
+459,Musculoskeletal,Surgical
+460,Musculoskeletal,Surgical
+461,Musculoskeletal,Surgical
+462,Musculoskeletal,Surgical
+463,Musculoskeletal,Surgical
+464,Musculoskeletal,Surgical
+465,Musculoskeletal,Surgical
+466,Musculoskeletal,Surgical
+467,Musculoskeletal,Surgical
+468,Musculoskeletal,Surgical
+469,Musculoskeletal,Surgical
+470,Musculoskeletal,Surgical
+471,Musculoskeletal,Surgical
+472,Musculoskeletal,Surgical
+473,Musculoskeletal,Surgical
+474,Musculoskeletal,Surgical
+475,Musculoskeletal,Surgical
+476,Musculoskeletal,Surgical
+477,Musculoskeletal,Surgical
+478,Musculoskeletal,Surgical
+479,Musculoskeletal,Surgical
+480,Musculoskeletal,Surgical
+481,Musculoskeletal,Surgical
+482,Musculoskeletal,Surgical
+483,Musculoskeletal,Surgical
+484,Musculoskeletal,Surgical
+485,Musculoskeletal,Surgical
+486,Musculoskeletal,Surgical
+487,Musculoskeletal,Surgical
+488,Musculoskeletal,Surgical
+489,Musculoskeletal,Surgical
+490,Musculoskeletal,Surgical
+491,Musculoskeletal,Surgical
+492,Musculoskeletal,Surgical
+493,Musculoskeletal,Surgical
+494,Musculoskeletal,Surgical
+495,Musculoskeletal,Surgical
+496,Musculoskeletal,Surgical
+497,Musculoskeletal,Surgical
+498,Musculoskeletal,Surgical
+499,Musculoskeletal,Surgical
+500,Musculoskeletal,Surgical
+501,Musculoskeletal,Surgical
+502,Musculoskeletal,Surgical
+503,Musculoskeletal,Surgical
+504,Musculoskeletal,Surgical
+505,Musculoskeletal,Surgical
+506,Musculoskeletal,Surgical
+507,Musculoskeletal,Surgical
+508,Musculoskeletal,Surgical
+509,Musculoskeletal,Surgical
+510,Musculoskeletal,Surgical
+511,Musculoskeletal,Surgical
+512,Musculoskeletal,Surgical
+513,Musculoskeletal,Surgical
+514,Musculoskeletal,Surgical
+515,Musculoskeletal,Surgical
+516,Musculoskeletal,Surgical
+517,Musculoskeletal,Surgical
+518,Musculoskeletal,Surgical
+519,Musculoskeletal,Surgical
+520,Musculoskeletal,Surgical
+521,Musculoskeletal,Surgical
+522,Musculoskeletal,Surgical
+533,Musculoskeletal,Medical
+534,Musculoskeletal,Medical
+535,Musculoskeletal,Medical
+536,Musculoskeletal,Medical
+537,Musculoskeletal,Medical
+538,Musculoskeletal,Medical
+539,Musculoskeletal,Medical
+540,Musculoskeletal,Medical
+541,Musculoskeletal,Medical
+542,Musculoskeletal,Medical
+543,Musculoskeletal,Medical
+544,Musculoskeletal,Medical
+545,Musculoskeletal,Medical
+546,Musculoskeletal,Medical
+547,Musculoskeletal,Medical
+548,Musculoskeletal,Medical
+549,Musculoskeletal,Medical
+550,Musculoskeletal,Medical
+551,Musculoskeletal,Medical
+552,Musculoskeletal,Medical
+553,Musculoskeletal,Medical
+554,Musculoskeletal,Medical
+555,Musculoskeletal,Medical
+556,Musculoskeletal,Medical
+557,Musculoskeletal,Medical
+558,Musculoskeletal,Medical
+559,Musculoskeletal,Medical
+560,Musculoskeletal,Medical
+561,Musculoskeletal,Medical
+562,Musculoskeletal,Medical
+563,Musculoskeletal,Medical
+564,Musculoskeletal,Medical
+565,Musculoskeletal,Medical
+566,Musculoskeletal,Medical
+570,Skin/Breast,Surgical
+571,Skin/Breast,Surgical
+572,Skin/Breast,Surgical
+573,Skin/Breast,Surgical
+574,Skin/Breast,Surgical
+575,Skin/Breast,Surgical
+576,Skin/Breast,Surgical
+577,Skin/Breast,Surgical
+578,Skin/Breast,Surgical
+579,Skin/Breast,Surgical
+580,Skin/Breast,Surgical
+581,Skin/Breast,Surgical
+582,Skin/Breast,Surgical
+583,Skin/Breast,Surgical
+584,Skin/Breast,Surgical
+585,Skin/Breast,Surgical
+592,Skin/Breast,Medical
+593,Skin/Breast,Medical
+594,Skin/Breast,Medical
+595,Skin/Breast,Medical
+596,Skin/Breast,Medical
+597,Skin/Breast,Medical
+598,Skin/Breast,Medical
+599,Skin/Breast,Medical
+600,Skin/Breast,Medical
+601,Skin/Breast,Medical
+602,Skin/Breast,Medical
+603,Skin/Breast,Medical
+604,Skin/Breast,Medical
+605,Skin/Breast,Medical
+606,Skin/Breast,Medical
+607,Skin/Breast,Medical
+614,Endocrine/Metabolic,Surgical
+615,Endocrine/Metabolic,Surgical
+616,Endocrine/Metabolic,Surgical
+617,Endocrine/Metabolic,Surgical
+618,Endocrine/Metabolic,Surgical
+619,Endocrine/Metabolic,Surgical
+620,Endocrine/Metabolic,Surgical
+621,Endocrine/Metabolic,Surgical
+622,Endocrine/Metabolic,Surgical
+623,Endocrine/Metabolic,Surgical
+624,Endocrine/Metabolic,Surgical
+625,Endocrine/Metabolic,Surgical
+626,Endocrine/Metabolic,Surgical
+627,Endocrine/Metabolic,Surgical
+628,Endocrine/Metabolic,Surgical
+629,Endocrine/Metabolic,Surgical
+630,Endocrine/Metabolic,Surgical
+637,Endocrine/Metabolic,Medical
+638,Endocrine/Metabolic,Medical
+639,Endocrine/Metabolic,Medical
+640,Endocrine/Metabolic,Medical
+641,Endocrine/Metabolic,Medical
+642,Endocrine/Metabolic,Medical
+643,Endocrine/Metabolic,Medical
+644,Endocrine/Metabolic,Medical
+645,Endocrine/Metabolic,Medical
+650,Kidney/Urinary,Surgical
+651,Kidney/Urinary,Surgical
+652,Kidney/Urinary,Surgical
+653,Kidney/Urinary,Surgical
+654,Kidney/Urinary,Surgical
+655,Kidney/Urinary,Surgical
+656,Kidney/Urinary,Surgical
+657,Kidney/Urinary,Surgical
+658,Kidney/Urinary,Surgical
+659,Kidney/Urinary,Surgical
+660,Kidney/Urinary,Surgical
+661,Kidney/Urinary,Surgical
+662,Kidney/Urinary,Surgical
+663,Kidney/Urinary,Surgical
+664,Kidney/Urinary,Surgical
+665,Kidney/Urinary,Surgical
+666,Kidney/Urinary,Surgical
+667,Kidney/Urinary,Surgical
+668,Kidney/Urinary,Surgical
+669,Kidney/Urinary,Surgical
+670,Kidney/Urinary,Surgical
+671,Kidney/Urinary,Surgical
+672,Kidney/Urinary,Surgical
+673,Kidney/Urinary,Surgical
+674,Kidney/Urinary,Surgical
+675,Kidney/Urinary,Surgical
+682,Kidney/Urinary,Medical
+683,Kidney/Urinary,Medical
+684,Kidney/Urinary,Medical
+685,Kidney/Urinary,Medical
+686,Kidney/Urinary,Medical
+687,Kidney/Urinary,Medical
+688,Kidney/Urinary,Medical
+689,Kidney/Urinary,Medical
+690,Kidney/Urinary,Medical
+691,Kidney/Urinary,Medical
+692,Kidney/Urinary,Medical
+693,Kidney/Urinary,Medical
+694,Kidney/Urinary,Medical
+695,Kidney/Urinary,Medical
+696,Kidney/Urinary,Medical
+697,Kidney/Urinary,Medical
+698,Kidney/Urinary,Medical
+699,Kidney/Urinary,Medical
+700,Kidney/Urinary,Medical
+707,Male Reproductive,Surgical
+708,Male Reproductive,Surgical
+709,Male Reproductive,Surgical
+710,Male Reproductive,Surgical
+711,Male Reproductive,Surgical
+712,Male Reproductive,Surgical
+713,Male Reproductive,Surgical
+714,Male Reproductive,Surgical
+715,Male Reproductive,Surgical
+716,Male Reproductive,Surgical
+717,Male Reproductive,Surgical
+718,Male Reproductive,Surgical
+722,Male Reproductive,Medical
+723,Male Reproductive,Medical
+724,Male Reproductive,Medical
+725,Male Reproductive,Medical
+726,Male Reproductive,Medical
+727,Male Reproductive,Medical
+728,Male Reproductive,Medical
+729,Male Reproductive,Medical
+730,Male Reproductive,Medical
+734,Female Reproductive,Surgical
+735,Female Reproductive,Surgical
+736,Female Reproductive,Surgical
+737,Female Reproductive,Surgical
+738,Female Reproductive,Surgical
+739,Female Reproductive,Surgical
+740,Female Reproductive,Surgical
+741,Female Reproductive,Surgical
+742,Female Reproductive,Surgical
+743,Female Reproductive,Surgical
+744,Female Reproductive,Surgical
+745,Female Reproductive,Surgical
+746,Female Reproductive,Surgical
+747,Female Reproductive,Surgical
+748,Female Reproductive,Surgical
+749,Female Reproductive,Surgical
+750,Female Reproductive,Surgical
+754,Female Reproductive,Medical
+755,Female Reproductive,Medical
+756,Female Reproductive,Medical
+757,Female Reproductive,Medical
+758,Female Reproductive,Medical
+759,Female Reproductive,Medical
+760,Female Reproductive,Medical
+761,Female Reproductive,Medical
+765,Childbirth,Maternity: C-Section
+766,Childbirth,Maternity: C-Section
+767,Childbirth,Maternity: Vaginal Delivery
+768,Childbirth,Maternity: Vaginal Delivery
+769,Childbirth,Maternity: Other
+770,Childbirth,Maternity: Other
+774,Childbirth,Maternity: Vaginal Delivery
+775,Childbirth,Maternity: Vaginal Delivery
+776,Childbirth,Maternity: Other
+777,Childbirth,Maternity: Other
+778,Childbirth,Maternity: Other
+779,Childbirth,Maternity: Other
+780,Childbirth,Maternity: Other
+781,Childbirth,Maternity: Other
+782,Childbirth,Maternity: Other
+783,Childbirth,Maternity: C-Section
+784,Childbirth,Maternity: C-Section
+785,Childbirth,Maternity: C-Section
+786,Childbirth,Maternity: C-Section
+787,Childbirth,Maternity: C-Section
+788,Childbirth,Maternity: C-Section
+789,Newborns,Newborn: Complex NICU
+790,Newborns,Newborn: Complex NICU
+791,Newborns,Newborn: Complex NICU
+792,Newborns,Newborn: Complex NICU
+793,Newborns,Newborn: Complex NICU
+794,Newborns,Newborn: Complex NICU
+795,Newborns,Newborn: Routine
+796,Childbirth,Maternity: Vaginal Delivery
+797,Childbirth,Maternity: Vaginal Delivery
+798,Childbirth,Maternity: Vaginal Delivery
+799,Blood/Immunological,Surgical
+800,Blood/Immunological,Surgical
+801,Blood/Immunological,Surgical
+802,Blood/Immunological,Surgical
+803,Blood/Immunological,Surgical
+804,Blood/Immunological,Surgical
+805,Childbirth,Maternity: Vaginal Delivery
+806,Childbirth,Maternity: Vaginal Delivery
+807,Childbirth,Maternity: Vaginal Delivery
+808,Blood/Immunological,Medical
+809,Blood/Immunological,Medical
+810,Blood/Immunological,Medical
+811,Blood/Immunological,Medical
+812,Blood/Immunological,Medical
+813,Blood/Immunological,Medical
+814,Blood/Immunological,Medical
+815,Blood/Immunological,Medical
+816,Blood/Immunological,Medical
+817,Childbirth,Maternity: Other
+818,Childbirth,Maternity: Other
+819,Childbirth,Maternity: Other
+820,Neoplasms,Surgical
+821,Neoplasms,Surgical
+822,Neoplasms,Surgical
+823,Neoplasms,Surgical
+824,Neoplasms,Surgical
+825,Neoplasms,Surgical
+826,Neoplasms,Surgical
+827,Neoplasms,Surgical
+828,Neoplasms,Surgical
+829,Neoplasms,Surgical
+830,Neoplasms,Surgical
+831,Childbirth,Maternity: Other
+832,Childbirth,Maternity: Other
+833,Childbirth,Maternity: Other
+834,Neoplasms,Medical
+835,Neoplasms,Medical
+836,Neoplasms,Medical
+837,Neoplasms,Medical
+838,Neoplasms,Medical
+839,Neoplasms,Medical
+840,Neoplasms,Medical
+841,Neoplasms,Medical
+842,Neoplasms,Medical
+843,Neoplasms,Medical
+844,Neoplasms,Medical
+845,Neoplasms,Medical
+846,Neoplasms,Medical
+847,Neoplasms,Medical
+848,Neoplasms,Medical
+849,Neoplasms,Medical
+850,Neoplasms,Surgical
+853,Infection,Surgical
+854,Infection,Surgical
+855,Infection,Surgical
+856,Infection,Surgical
+857,Infection,Surgical
+858,Infection,Surgical
+862,Infection,Medical
+863,Infection,Medical
+864,Infection,Medical
+865,Infection,Medical
+866,Infection,Medical
+867,Infection,Medical
+868,Infection,Medical
+869,Infection,Medical
+870,Infection,Medical
+871,Infection,Medical
+872,Infection,Medical
+876,Mental Health,Mental Health
+877,Mental Health,Mental Health
+878,Mental Health,Mental Health
+879,Mental Health,Mental Health
+880,Mental Health,Mental Health
+881,Mental Health,Mental Health
+882,Mental Health,Mental Health
+883,Mental Health,Mental Health
+884,Mental Health,Mental Health
+885,Mental Health,Mental Health
+886,Mental Health,Mental Health
+887,Mental Health,Mental Health
+894,Substance Abuse,Substance Abuse
+895,Substance Abuse,Substance Abuse
+896,Substance Abuse,Substance Abuse
+897,Substance Abuse,Substance Abuse
+901,Injury,Surgical
+902,Injury,Surgical
+903,Injury,Surgical
+904,Injury,Surgical
+905,Injury,Surgical
+906,Injury,Surgical
+907,Injury,Surgical
+908,Injury,Surgical
+909,Injury,Surgical
+913,Injury,Medical
+914,Injury,Medical
+915,Injury,Medical
+916,Injury,Medical
+917,Injury,Medical
+918,Injury,Medical
+919,Injury,Medical
+920,Injury,Medical
+921,Injury,Medical
+922,Injury,Medical
+923,Injury,Medical
+927,Burns,Surgical
+928,Burns,Surgical
+929,Burns,Surgical
+933,Burns,Medical
+934,Burns,Medical
+935,Burns,Medical
+939,Health Status Factors,Surgical
+940,Health Status Factors,Surgical
+941,Health Status Factors,Surgical
+945,Health Status Factors,Medical
+946,Health Status Factors,Medical
+947,Health Status Factors,Medical
+948,Health Status Factors,Medical
+949,Health Status Factors,Medical
+950,Health Status Factors,Medical
+951,Health Status Factors,Medical
+955,Trauma,Surgical
+956,Trauma,Surgical
+957,Trauma,Surgical
+958,Trauma,Surgical
+959,Trauma,Surgical
+963,Trauma,Medical
+964,Trauma,Medical
+965,Trauma,Medical
+969,HIV,Surgical
+970,HIV,Surgical
+974,HIV,Medical
+975,HIV,Medical
+976,HIV,Medical
+977,HIV,Medical
+981,Ungroupable,Surgical
+982,Ungroupable,Surgical
+983,Ungroupable,Surgical
+984,Ungroupable,Surgical
+985,Ungroupable,Surgical
+986,Ungroupable,Surgical
+987,Ungroupable,Surgical
+988,Ungroupable,Surgical
+989,Ungroupable,Surgical
+998,Ungroupable,Surgical
+999,Ungroupable,Surgical
